@@ -13,23 +13,23 @@ global.APIKeys = {
 
 // setting 
 global.autoread = true // auto read pesan / message
-global.autorecording = true //status auto merekam ( auto record )
+global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "MaulBotz"
-global.ownername= "Maul Ofc"
+global.botname = "Arya Botz"
+global.ownername= "AryaAzwariansyah"
 global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeoneofc.github.io/"
-global.ownernomer = "62895416489526"
-global.ownernomerr = "+62895416489526"
+global.youtube = "https://youtube.com/c/"
+global.github = "https://Arya05263.github.io/"
+global.ownernomer = "6283168341148"
+global.ownernomerr = "+6283168341148"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["62895416489526","62895416489526","62895416489526"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© MaulBotz' //sticker wm
+global.owner = ["6283168341148","6283168341148","6283168341148"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© Aryabot' //sticker wm
 global.author = 'Di Buat Oleh AzenGans' //sticker wm
 global.sessionName = 'maull'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
